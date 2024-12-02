@@ -1,0 +1,6 @@
+Break up details Alien/Trooper - grunge/noise - Denim (Smart masks)
+bake mesh maps
+Mars - craters/noise/details
+simplify camera
+plane bridge reflection
+Hollywood camera moves
